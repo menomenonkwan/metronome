@@ -1,5 +1,6 @@
 live demo: https://menomenonkwan.github.io/metronome/
 
+I put the accent on the upbeat instead of the usual downbeat... I feel it grooves better.
 
 # Getting Started with Create React App
 
